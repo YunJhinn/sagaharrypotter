@@ -21,7 +21,11 @@ p{font-size: x-large;}
 .menuli{font-size: larger;}
 #ordemol{font-size: x-large;}
 footer{background-color: whitesmoke;}
-table{border:;}
+.contatos{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 8px;
+}
 
 
 
